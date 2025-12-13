@@ -6,7 +6,20 @@
     <description>Recent content on Jingyuan Wang</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 19:35:07 +0800</lastBuildDate>
     <atom:link href="https://jingyuan-ai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://jingyuan-ai.github.io/posts/hello/</link>
+      <pubDate>Sat, 13 Dec 2025 19:35:07 +0800</pubDate>
+      <guid>https://jingyuan-ai.github.io/posts/hello/</guid>
+      <description>&lt;p&gt;这是我的第一个个人技术网站。&lt;/p&gt;
+&lt;p&gt;我会在这里记录：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;机器人系统设计&lt;/li&gt;
+&lt;li&gt;SDK 架构思考&lt;/li&gt;
+&lt;li&gt;工程实践中的取舍&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>
