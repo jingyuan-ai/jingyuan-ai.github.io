@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Jingyuan Wang</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Jingyuan Wang</description>
+    <title>Software on Jingyuan Wang</title>
+    <link>http://localhost:1313/categories/software/</link>
+    <description>Recent content in Software on Jingyuan Wang</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 14 Dec 2025 21:57:05 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Martin Fowler采访观感——AI时代软件思考</title>
       <link>http://localhost:1313/posts/martin_fowler_interview_insight/</link>
@@ -27,19 +27,6 @@
 &lt;p&gt;编程本身是学习的过程，而AI容易让人跳过这一过程，反而不利于深入掌握。因此，长期维护与迭代的项目不宜依赖AI，否则可能导致代码难以维护。&lt;/p&gt;
 &lt;p&gt;但这不意味着完全不用AI。我们可以借助它来小步快跑、加速迭代，但每一个小步都需经过人工验证或重构。AI也可用于代码分析，识别需要重构的部分，但实际重构工作应交由确定性工具完成。面对复杂遗留系统，AI能辅助理解其结构——毕竟很多复杂性源于人为设计，有时甚至只是个人偏好所致，难以为后人所解读。&lt;/p&gt;
 &lt;p&gt;此外，或许可以尝试与AI共同设计一套领域特定语言（DSL），再以DSL指导AI工作。严谨的DSL往往是AI擅长的沟通方式，这也解释了为何AI能在各类棋类游戏中超越人类。这也是一个开放的方向，有待更多探索。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hello</title>
-      <link>http://localhost:1313/posts/hello/</link>
-      <pubDate>Sat, 13 Dec 2025 19:35:07 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
-      <description>&lt;p&gt;这是我的第一个个人技术网站。&lt;/p&gt;
-&lt;p&gt;我会在这里记录：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;机器人系统设计&lt;/li&gt;
-&lt;li&gt;SDK 架构思考&lt;/li&gt;
-&lt;li&gt;工程实践中的取舍&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

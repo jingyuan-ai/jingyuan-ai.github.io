@@ -6,8 +6,28 @@
     <description>Recent content on Jingyuan Wang</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 13 Dec 2025 19:35:07 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 21:57:05 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Martin Fowler采访观感——AI时代软件思考</title>
+      <link>http://localhost:1313/posts/martin_fowler_interview_insight/</link>
+      <pubDate>Sun, 14 Dec 2025 21:57:05 +0800</pubDate>
+      <guid>http://localhost:1313/posts/martin_fowler_interview_insight/</guid>
+      <description>&lt;p&gt;近期刷到过两次软件教父Martin Fowler的深度采访，每次都看了一遍，感觉都很有东西，但是回过头去想到底有什么东西，又好像什么都没有。今天趁娃睡得早，反思了一下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;非确定性&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;过去的软件大多基于规则构建，逻辑严谨、可推导；如今的软件则逐渐走向黑盒化与概率性。概率思维在软件工程中其实一直存在且重要——我们常在无意识中依据问题发生的可能性来选择解决方案，因为决策往往涉及时间、成本与收益的权衡。&lt;/p&gt;
+&lt;p&gt;软件是工具，而工具的演进与人类认知的演进密不可分。过去的工具往往是确定性的，使用工具的人则承担了应对不确定性的角色；如今，这种“概率性”正从人向工具内部扩散。这或许是演化的必然：毕竟我们所在的世界本就充满不确定性，甚至在底层还受量子特性的影响。&lt;/p&gt;
+&lt;p&gt;回到工程实践，以往我们通过严谨建模来解决问题，而现在则越来越依赖模型本身输出决策。这种转变提示我们，或许可以尝试用模型思维重新审视旧问题，以概率视角应对系统的不确定性。当然，这仍是一个开放的方向，有待更多探索与实践。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;AI与编程&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;不应盲目依赖AI。AI代码能力很强却不太可靠，因为工程能力不只是编程能力。通常AI所生成的代码往往只适合一次性使用，用后最好丢弃。&lt;/p&gt;
+&lt;p&gt;编程本身是学习的过程，而AI容易让人跳过这一过程，反而不利于深入掌握。因此，长期维护与迭代的项目不宜依赖AI，否则可能导致代码难以维护。&lt;/p&gt;
+&lt;p&gt;但这不意味着完全不用AI。我们可以借助它来小步快跑、加速迭代，但每一个小步都需经过人工验证或重构。AI也可用于代码分析，识别需要重构的部分，但实际重构工作应交由确定性工具完成。面对复杂遗留系统，AI能辅助理解其结构——毕竟很多复杂性源于人为设计，有时甚至只是个人偏好所致，难以为后人所解读。&lt;/p&gt;
+&lt;p&gt;此外，或许可以尝试与AI共同设计一套领域特定语言（DSL），再以DSL指导AI工作。严谨的DSL往往是AI擅长的沟通方式，这也解释了为何AI能在各类棋类游戏中超越人类。这也是一个开放的方向，有待更多探索。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello</title>
       <link>http://localhost:1313/posts/hello/</link>
