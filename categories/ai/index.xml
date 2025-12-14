@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ai on Jingyuan Wang</title>
-    <link>http://localhost:1313/categories/ai/</link>
+    <link>https://jingyuan-ai.github.io/categories/ai/</link>
     <description>Recent content in Ai on Jingyuan Wang</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 14 Dec 2025 21:57:05 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jingyuan-ai.github.io/categories/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Martin Fowler采访观感——AI时代软件思考</title>
-      <link>http://localhost:1313/posts/martin_fowler_interview_insight/</link>
+      <link>https://jingyuan-ai.github.io/posts/martin_fowler_interview_insight/</link>
       <pubDate>Sun, 14 Dec 2025 21:57:05 +0800</pubDate>
-      <guid>http://localhost:1313/posts/martin_fowler_interview_insight/</guid>
+      <guid>https://jingyuan-ai.github.io/posts/martin_fowler_interview_insight/</guid>
       <description>&lt;p&gt;近期刷到过两次软件教父Martin Fowler的深度采访，每次都看了一遍，感觉都很有东西，但是回过头去想到底有什么东西，又好像什么都没有。今天趁娃睡得早，反思了一下：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;非确定性&lt;/li&gt;

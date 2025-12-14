@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/ai/</loc>
+    <loc>https://jingyuan-ai.github.io/categories/ai/</loc>
     <lastmod>2025-12-14T21:57:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://jingyuan-ai.github.io/categories/</loc>
     <lastmod>2025-12-14T21:57:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://jingyuan-ai.github.io/</loc>
     <lastmod>2025-12-14T21:57:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/martin_fowler_interview_insight/</loc>
+    <loc>https://jingyuan-ai.github.io/posts/martin_fowler_interview_insight/</loc>
     <lastmod>2025-12-14T21:57:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://jingyuan-ai.github.io/posts/</loc>
     <lastmod>2025-12-14T21:57:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/software/</loc>
+    <loc>https://jingyuan-ai.github.io/categories/software/</loc>
     <lastmod>2025-12-14T21:57:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hello/</loc>
+    <loc>https://jingyuan-ai.github.io/posts/hello/</loc>
     <lastmod>2025-12-13T19:35:07+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://jingyuan-ai.github.io/tags/</loc>
   </url>
 </urlset>
